@@ -1,0 +1,2 @@
+rootProject.name='Autofills and AutoComplete'
+include ':app'
